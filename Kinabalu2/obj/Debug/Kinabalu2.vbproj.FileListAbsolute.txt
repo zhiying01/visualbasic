@@ -1,0 +1,13 @@
+D:\visual studio\Kinabalu2\bin\Debug\Kinabalu2.exe.config
+D:\visual studio\Kinabalu2\bin\Debug\Kinabalu2.exe
+D:\visual studio\Kinabalu2\bin\Debug\Kinabalu2.pdb
+D:\visual studio\Kinabalu2\bin\Debug\Kinabalu2.xml
+D:\visual studio\Kinabalu2\obj\Debug\Kinabalu2.vbproj.AssemblyReference.cache
+D:\visual studio\Kinabalu2\obj\Debug\Kinabalu2.vbproj.SuggestedBindingRedirects.cache
+D:\visual studio\Kinabalu2\obj\Debug\Kinabalu2.Form1.resources
+D:\visual studio\Kinabalu2\obj\Debug\Kinabalu2.Resources.resources
+D:\visual studio\Kinabalu2\obj\Debug\Kinabalu2.vbproj.GenerateResource.cache
+D:\visual studio\Kinabalu2\obj\Debug\Kinabalu2.vbproj.CoreCompileInputs.cache
+D:\visual studio\Kinabalu2\obj\Debug\Kinabalu2.exe
+D:\visual studio\Kinabalu2\obj\Debug\Kinabalu2.xml
+D:\visual studio\Kinabalu2\obj\Debug\Kinabalu2.pdb
