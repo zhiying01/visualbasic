@@ -1,0 +1,17 @@
+D:\visual studio\Money Sort\bin\Debug\net6.0-windows\Money Sort.exe
+D:\visual studio\Money Sort\bin\Debug\net6.0-windows\Money Sort.deps.json
+D:\visual studio\Money Sort\bin\Debug\net6.0-windows\Money Sort.runtimeconfig.json
+D:\visual studio\Money Sort\bin\Debug\net6.0-windows\Money Sort.dll
+D:\visual studio\Money Sort\bin\Debug\net6.0-windows\Money Sort.pdb
+D:\visual studio\Money Sort\obj\Debug\net6.0-windows\Money Sort.vbproj.AssemblyReference.cache
+D:\visual studio\Money Sort\obj\Debug\net6.0-windows\Money_Sort.Form1.resources
+D:\visual studio\Money Sort\obj\Debug\net6.0-windows\Money Sort.vbproj.GenerateResource.cache
+D:\visual studio\Money Sort\obj\Debug\net6.0-windows\Money Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\Money Sort\obj\Debug\net6.0-windows\Money Sort.AssemblyInfoInputs.cache
+D:\visual studio\Money Sort\obj\Debug\net6.0-windows\Money Sort.AssemblyInfo.vb
+D:\visual studio\Money Sort\obj\Debug\net6.0-windows\Money Sort.vbproj.CoreCompileInputs.cache
+D:\visual studio\Money Sort\obj\Debug\net6.0-windows\Money Sort.dll
+D:\visual studio\Money Sort\obj\Debug\net6.0-windows\refint\Money Sort.dll
+D:\visual studio\Money Sort\obj\Debug\net6.0-windows\Money Sort.pdb
+D:\visual studio\Money Sort\obj\Debug\net6.0-windows\Money Sort.genruntimeconfig.cache
+D:\visual studio\Money Sort\obj\Debug\net6.0-windows\ref\Money Sort.dll
