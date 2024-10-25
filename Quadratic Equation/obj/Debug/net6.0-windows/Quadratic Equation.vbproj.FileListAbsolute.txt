@@ -1,0 +1,17 @@
+D:\visual studio\Quadratic Equation\bin\Debug\net6.0-windows\Quadratic Equation.exe
+D:\visual studio\Quadratic Equation\bin\Debug\net6.0-windows\Quadratic Equation.deps.json
+D:\visual studio\Quadratic Equation\bin\Debug\net6.0-windows\Quadratic Equation.runtimeconfig.json
+D:\visual studio\Quadratic Equation\bin\Debug\net6.0-windows\Quadratic Equation.dll
+D:\visual studio\Quadratic Equation\bin\Debug\net6.0-windows\Quadratic Equation.pdb
+D:\visual studio\Quadratic Equation\obj\Debug\net6.0-windows\Quadratic Equation.vbproj.AssemblyReference.cache
+D:\visual studio\Quadratic Equation\obj\Debug\net6.0-windows\Quadratic_Equation.Form1.resources
+D:\visual studio\Quadratic Equation\obj\Debug\net6.0-windows\Quadratic Equation.vbproj.GenerateResource.cache
+D:\visual studio\Quadratic Equation\obj\Debug\net6.0-windows\Quadratic Equation.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\Quadratic Equation\obj\Debug\net6.0-windows\Quadratic Equation.AssemblyInfoInputs.cache
+D:\visual studio\Quadratic Equation\obj\Debug\net6.0-windows\Quadratic Equation.AssemblyInfo.vb
+D:\visual studio\Quadratic Equation\obj\Debug\net6.0-windows\Quadratic Equation.vbproj.CoreCompileInputs.cache
+D:\visual studio\Quadratic Equation\obj\Debug\net6.0-windows\Quadratic Equation.dll
+D:\visual studio\Quadratic Equation\obj\Debug\net6.0-windows\refint\Quadratic Equation.dll
+D:\visual studio\Quadratic Equation\obj\Debug\net6.0-windows\Quadratic Equation.pdb
+D:\visual studio\Quadratic Equation\obj\Debug\net6.0-windows\Quadratic Equation.genruntimeconfig.cache
+D:\visual studio\Quadratic Equation\obj\Debug\net6.0-windows\ref\Quadratic Equation.dll
