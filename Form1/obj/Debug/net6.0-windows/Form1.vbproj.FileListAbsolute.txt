@@ -1,0 +1,5 @@
+D:\Form1\obj\Debug\net6.0-windows\Form1.vbproj.AssemblyReference.cache
+D:\Form1\obj\Debug\net6.0-windows\MainWindow.g.vb
+D:\Form1\obj\Debug\net6.0-windows\Application.g.vb
+D:\Form1\obj\Debug\net6.0-windows\Form1_MarkupCompile.cache
+D:\Form1\obj\Debug\net6.0-windows\Form1_MarkupCompile.lref
